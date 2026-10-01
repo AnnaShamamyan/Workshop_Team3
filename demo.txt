@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 line Tatev 
+=======
+Knarik
+Hello
+>>>>>>> b2cc07c37a283ad5b45123ab3d2e699a7bb36739
