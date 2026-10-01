@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-line Armine
-line Armine 2
-=======
-line Tatev 
->>>>>>> origin/tatev
+Knarik
+Hello
